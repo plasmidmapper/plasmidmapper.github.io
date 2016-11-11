@@ -128,7 +128,7 @@ body{
 
 }
 
-#newAlign {
+#newAlign:hover {
     margin-top: 20px;
     width: 170px !important;
     height: 40px !important;
